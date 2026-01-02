@@ -1,0 +1,43 @@
+/* Simple, clean, professional styling */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px auto;
+    max-width: 900px;
+    color: #333;              /* dark grey text */
+    background-color: #fafafa; /* very light grey background */
+}
+
+h1 {
+    color: #1f3c88;           /* deep blue for name */
+    margin-bottom: 5px;
+}
+
+p strong {
+    color: #444;
+}
+
+h2 {
+    margin-top: 30px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #1f3c88;
+    color: #1f3c88;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+a {
+    color: #1f3c88;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
